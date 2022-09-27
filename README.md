@@ -1,4 +1,4 @@
-# PixelLevel_Reconfigurable_Beamforming
+## Pixel Level Reconfigurable Beamforming
 Repository to share the Verilog codes for pixel-level reconfigurable beamforming in ultrasound imaging
 This work is a fundamental step towards enabling reconfigurable beamforming for on-the-fly selection among the delay and sum(DAS) and delay multiply and sum(DMAS) beamforming schemes, with low reconfiguration overhead in ultrasound imaging to aid better diagnosis. 
 
