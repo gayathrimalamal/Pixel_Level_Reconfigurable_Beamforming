@@ -2,7 +2,7 @@
 Repository to share the Verilog codes for pixel-level reconfigurable beamforming in ultrasound imaging
 This work is a fundamental step towards enabling reconfigurable beamforming for on-the-fly selection among the delay and sum(DAS) and delay multiply and sum(DMAS) beamforming schemes, with low reconfiguration overhead in ultrasound imaging to aid better diagnosis. 
 
-**Authors**: Gayathri Malamal and Mahesh Raveendranatha Panicker
+**Authors**: Gayathri Malamal and Mahesh Raveendranatha Panicker, Center for Computational Imaging, Department of Electrical Engineering, Indian Institute of Technology Palakkad, India
 
 **Codes Available under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) (see https://creativecommons.org/licenses/by-nc-nd/4.0/)**
 
